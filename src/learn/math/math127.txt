@@ -1,0 +1,24 @@
+
+When I was a Math/Chem grad student at Princeton in 1973-74, there was
+a story going around about a grad student.  This guy was always late.
+One day he stumbled into class late, saw seven problems written on the
+board, and wrote them down.  As the week went on he began to panic:
+the math department at Princeton is fiercely competitive, and here he
+was unable to do most of a simple homework assignment!  When the next
+class rolled around he only had solved two of the problems, although
+he had a pretty good idea of how to solve a third but not enough time
+to complete it.
+
+When he dejectedly flung his partial assignment on the prof's desk,
+the prof asked him "What's that?"  "The homework."  "What homework?"
+Eventually it came out that what the prof had written on the board
+were the seven most important unsolved problems in the field.
+
+This is largely an academic legend, at least according to Jan Harold
+Brunvand, the author of a series of books on so-called Urban Legends.
+He talks about it in his latest book _Curses!  Broiled Again!_ in the
+chapter entitled "The Unsolvable Math Problem."  It is, however, based
+in some fact.  The Stanford mathematician, George B. Danzig,
+apparently managed to solve two statistics problems previously
+unsolved under similar circumstances.
+

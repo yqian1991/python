@@ -1,0 +1,6 @@
+
+Do you know how to save a drowning lawyer?
+A1: Take your foot off his head.
+A2: No.
+    Good!
+

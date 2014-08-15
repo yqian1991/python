@@ -1,0 +1,13 @@
+
+Patient: Doctor, I have a problem.  I feel unhealthy and depressed.
+Doctor: You should cut down on drinks.
+Patient: I don't touch a drop.
+Doctor: You should cut down on smoking.
+Patient: I don't smoke.
+Doctor: You should stop taking drugs.
+Patient: I don't do drugs.
+Doctor: You should cut down on womanizing.
+Patient: Haven't touched a woman in my life.
+Doctor:  In that case, get yourself a drink, learn to smoke, do some drugs, and
+find a couple of girlfriends.
+

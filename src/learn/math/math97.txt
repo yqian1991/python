@@ -1,0 +1,7 @@
+
+This was made by Mike Bender and Sarah Herr:
+
+                          MATHEMATICS PURITY TEST
+
+          Count the number of yes's, subtract from 60, and divide by 0.6.
+

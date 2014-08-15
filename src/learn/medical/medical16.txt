@@ -1,0 +1,5 @@
+
+Doctor:  Have you ever had this before?
+Patient: Yes.
+Doctor:  Well, you've got it again.
+

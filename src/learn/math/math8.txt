@@ -1,0 +1,40 @@
+
+A group of scientists were doing an investigation into problem-solving
+techniques, and constructed an experiment involving a physicist, an
+engineer, and a mathematician.
+
+The experimental apparatus consisted of a water spigot and two identical
+pails, one of which was fastened to the ground ten feet from the spigot.
+
+Each of the subjects was given the second pail, empty, and told to fill the
+pail on the ground.
+
+The physicist was the first subject:  he carried his pail to the spigot,
+filled it there, carried it full of water to the pail on the ground, and
+poured the water into it.  Standing back, he declared, "There: I have
+solved the problem."
+
+The engineer and the mathematician each approached the problem similarly.
+Upon finishing, the engineer noted that the solution was exact, since the
+volumes of the pails were equal.  The mathematician merely noted that he
+had proven that a solution exists.
+
+Now, the experimenters altered the parameters of the task a bit:  the pail
+on the ground was still empty, but the subjects were presented with a pail
+that was already half-filled with water.
+
+The physicist immediately carried his pail over to the one on the ground,
+emptied the water into it, went back to the spigot, *filled* the pail, and
+finally emptied the entire contents into the pail on the ground,
+overflowing it and spilling some of the water.  Upon finishing, he
+commented that the problem should have been better stated.
+
+The engineer, in turn, thought for some time before going into action.  He
+then took his half-filled pail to the spigot, filled it to the brim, and
+filled the pail on the ground from it.  Again he noted that the problem had
+an exact solution, which of course he had found.
+
+The mathematician thought for a long time before stirring.  At last he
+stood up, emptied his pail onto the ground, and declared, "The problem has
+been reduced to one already solved."
+

@@ -1,0 +1,7 @@
+
+If inside a circle a line
+Hits the center and goes spine to spine
+And the line's length is "d"
+the circumference will be
+d times 3.14159
+

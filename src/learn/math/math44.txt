@@ -1,0 +1,111 @@
+
+4 Contributions from Computer Science.
+
+4.1 The search method
+
+We assume that the lion is most likely to be found in the direction to
+the north of the point where we are standing.  Therefore the REAL
+problem we have is that of speed, since we are only using a PC to
+solve the problem.
+
+4.2 The parallel search method.
+
+By using parallelism we will be able to search in the direction to the
+north much faster than earlier.
+
+4.3 The Monte-Carlo method.
+
+We pick a random number indexing the space we search.  By excluding
+neighboring points in the search, we can drastically reduce the number
+of points we need to consider.  The lion will according to probability
+appear sooner or later.
+
+4.4 The practical approach.
+
+We see a rabbit very close to us.  Since it is already dead, it is
+particularly easy to catch.  We therefore catch it and call it a lion.
+
+4.5 The common language approach.
+
+If only everyone used ADA/Common Lisp/Prolog, this problem would be
+trivial to solve.
+
+4.6 The standard approach.
+
+We know what a Lion is from ISO 4711/X.123.  Since CCITT have specified
+a Lion to be a particular option of a cat we will have to wait for a
+harmonized standard to appear.  $20,000,000 have been funded for
+initial investigations into this standard development.
+
+4.7 Linear search.
+
+Stand in the top left hand corner of the Sahara Desert.  Take one step
+east.  Repeat until you have found the lion, or you reach the right
+hand edge.  If you reach the right hand edge, take one step
+southwards, and proceed towards the left hand edge.  When you finally
+reach the lion, put it the cage.  If the lion should happen to eat you
+before you manage to get it in the cage, press the reset button, and
+try again.
+
+4.8 The Dijkstra approach:
+
+The way the problem reached me was: catch a wild lion in the Sahara
+Desert. Another way of stating the problem is:
+
+       Axiom 1: Sahara elem deserts
+       Axiom 2: Lion elem Sahara
+       Axiom 3: NOT(Lion elem cage)
+
+We observe the following invariant:
+
+       P1:     C(L) v not(C(L))
+
+where C(L) means: the value of "L" is in the cage.
+
+Establishing C initially is trivially accomplished with the statement
+
+       ;cage := {}
+
+Note 0:
+This is easily implemented by opening the door to the cage and shaking
+out any lions that happen to be there initially.
+(End of note 0.)
+
+The obvious program structure is then:
+
+       ;cage:={}
+       ;do NOT (C(L)) ->
+               ;"approach lion under invariance of P1"
+               ;if P(L) ->
+                       ;"insert lion in cage"
+                [] not P(L) ->
+                       ;skip
+               ;fi
+       ;od
+
+where P(L) means: the value of L is within arm's reach.
+
+Note 1:
+Axiom 2 ensures that the loop terminates.
+(End of note 1.)
+
+Exercise 0:
+Refine the step "Approach lion under invariance of P1".
+(End of exercise 0.)
+
+Note 2:
+The program is robust in the sense that it will lead to
+abortion if the value of L is "lioness".
+(End of note 2.)
+
+Remark 0: This may be a new sense of the word "robust" for you.
+(End of remark 0.)
+
+Note 3:
+
+>From observation we can see that the above program leads to the
+desired goal. It goes without saying that we therefore do not have to
+run it.
+(End of note 3.)
+(End of approach.)
+

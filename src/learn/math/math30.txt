@@ -1,0 +1,16 @@
+
+A computer scientist, mathematician, a physicist, and an engineer were
+travelling through Scotland when they saw a black sheep through the
+window of the train.
+
+"Aha," says the engineer, "I see that Scottish sheep are black."
+
+"Hmm," says the physicist, "You mean that some Scottish sheep are
+black."
+
+"No," says the mathematician, "All we know is that there is at least
+one sheep in Scotland, and that at least one side of that one sheep is
+black!"
+
+"Oh, no!" shouts the computer scientist, "A special case!"
+

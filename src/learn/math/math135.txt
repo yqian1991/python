@@ -1,0 +1,8 @@
+
+An engineer, a mathematician, and a computer programmer are driving
+down the road when the car they are in gets a flat tire.  The engineer
+says that they should buy a new car.  The mathematician says they
+should sell the old tire and buy a new one.  The computer programmer
+says they should drive the car around the block and see if the tire
+fixes itself.
+

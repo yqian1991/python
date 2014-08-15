@@ -1,0 +1,89 @@
+
+                  Definitions of Terms Commonly Used in Higher Math
+
+          The following is a guide to the weary student of mathematics who
+          is often confronted with terms which are commonly used but rarely
+          defined.  In the search for proper definitions for these terms we
+          found no authoritative, nor even recognized, source.  Thus, we
+          followed the advice of mathematicians handed down from time
+          immortal:  "Wing It."
+
+
+          CLEARLY:            I don't want to write down all the "in-
+                              between" steps.
+
+          TRIVIAL:            If I have to show you how to do this, you're
+                              in the wrong class.
+
+          OBVIOUSLY:          I hope you weren't sleeping when we discussed
+                              this earlier, because I refuse to repeat it.
+
+          RECALL:             I shouldn't have to tell you this, but for
+                              those of you who erase your memory tapes
+                              after every test...
+
+          WLOG (Without Loss Of Generality): I'm not about to do all the
+                              possible cases, so I'll do one and let you
+                              figure out the rest.
+
+          IT CAN EASILY BE SHOWN: Even you, in your finite wisdom, should
+                              be able to prove this without me holding your
+                              hand.
+
+          CHECK or CHECK FOR YOURSELF: This is the boring part of the
+                              proof, so you can do it on your own time.
+
+          SKETCH OF A PROOF:  I couldn't verify all the details, so I'll
+                              break it down into the parts I couldn't
+                              prove.
+
+          HINT:               The hardest of several possible ways to do a
+                              proof.
+
+          BRUTE FORCE (AND IGNORANCE): Four special cases, three counting
+                              arguments, two long inductions, "and a
+                              partridge in a pair tree."
+
+          SOFT PROOF:         One third less filling (of the page) than
+                              your regular proof, but it requires two extra
+                              years of course work just to understand the
+                              terms.
+
+          ELEGANT PROOF:      Requires no previous knowledge of the subject
+                              matter and is less than ten lines long.
+
+          SIMILARLY:          At least one line of the proof of this case is
+                              the same as before.
+
+          CANONICAL FORM:     4 out of 5 mathematicians surveyed
+                              recommended this as the final form for their
+                              students who choose to finish.
+
+          TFAE (The Following Are Equivalent): If I say this it means that,
+                              and if I say that it means the other thing,
+                              and if I say the other thing...
+
+          BY A PREVIOUS THEOREM: I don't remember how it goes (come to
+                              think of it I'm not really sure we did this
+                              at all), but if I stated it right (or at
+                              all), then the rest of this follows.
+
+          TWO LINE PROOF:     I'll leave out everything but the conclusion,
+                              you can't question 'em if you can't see 'em.
+
+          BRIEFLY:            I'm running out of time, so I'll just write
+                              and talk faster.
+
+          LET'S TALK THROUGH IT: I don't want to write it on the board lest
+                              I make a mistake.
+
+          PROCEED FORMALLY:   Manipulate symbols by the rules without any
+                              hint of their true meaning (popular in pure
+                              math courses).
+
+          QUANTIFY:           I can't find anything wrong with your proof
+                              except that it won't work if x is a moon of
+                              Jupiter (Popular in applied math courses).
+
+          PROOF OMITTED:      Trust me, It's true.
+

@@ -1,0 +1,5 @@
+
+  Patient to eye-doctor: "I'm very worried about the outcome of this operation,
+doctor.  What are the chances? "
+  Eye-doctor to patient: "Don't worry, you won't be able to see the difference."
+

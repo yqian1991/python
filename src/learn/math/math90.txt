@@ -1,0 +1,23 @@
+
+During a class of calculus my lecturer suddenly checked himself and
+stared intently at the table in front of him for a while. Then he
+looked up at us and explained that he thought he had brought six piles
+of papers with him, but "no matter how he counted" there was only five
+on the table.  Then he became silent for a while again and then told
+the following story:
+
+"When I was young in Poland I met the great mathematician Waclaw
+Sierpinski.  He was old already then and rather absent-minded.  Once he
+had to move to a new place for some reason.  His wife wife didn't trust
+him very much, so when they stood down on the street with all their
+things, she said:
+ - Now, you stand here and watch our ten trunks, while I go and get a
+   taxi.
+
+She left and left him there, eyes somewhat glazed and humming
+absently.  Some minutes later she returned, presumably having called
+for a taxi.  Says Mr. Sierpinski (possibly with a glint in his eye):
+ - I thought you said there were ten trunks, but I've only counted to nine.
+ - No, they're TEN!
+ - No, count them: 0, 1, 2, ..."
+

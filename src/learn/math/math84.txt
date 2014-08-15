@@ -1,0 +1,16 @@
+
+Theorem : All positive integers are equal.
+
+Proof : Sufficient to show that for any two positive integers, A and B,
+   A = B.  Further, it is sufficient to show that for all N > 0, if A
+   and B (positive integers) satisfy (MAX(A, B) = N) then A = B.
+
+   Proceed by induction.
+
+   If N = 1, then A and B, being positive integers, must both be 1.
+   So A = B.
+
+   Assume that the theorem is true for some value k.  Take A and B
+   with MAX(A, B) = k+1.  Then  MAX((A-1), (B-1)) = k.  And hence
+   (A-1) = (B-1).  Consequently, A = B.
+

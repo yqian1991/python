@@ -1,0 +1,21 @@
+
+The development of International Standards can be likened to the events of
+conception, pregnancy and birth. At the outset, the decision to produce a
+standard is made. There then follows frantic activity during which many
+organizations compete to develop the standard. An International Standard can
+usually trace many ancestors in its genes. Eventually the standard is born and
+is given a name, which is generally quite prosaic but interestingly is always
+called after the mother. The gestation period of an International Standard
+depends on its mother and may be up to 5 years.
+
+Many organizations develop their own standards, but the chief International ones
+are ISO, CCITT, ECMA and ANSI. The prime focus for OSI Standardization, ISO
+(Internecine Strife Organization), sees the effect of both Intercept and
+Contracept Strategies; it is not accidental that "ISO" is "OSI" backwards.  One
+body that is very effective in getting its own way is CCITT (Comit'e pour
+Conformance aux Ide'es T'el'ephiniques Totale).  However, ECMA (Effective
+Contracept Methods Association), provides an excellent counter to CCITT
+activities.  ANSI (American Nexus for Sub-committees In-fighting) finds itself
+in the middle of opposing CCITT-like and ECMA-like views.
+
+3.  Methods

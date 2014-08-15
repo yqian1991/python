@@ -1,0 +1,75 @@
+
+Problem: To Catch a Lion in the Sahara Desert.
+
+(Hunting lions in Africa was originally published as "A contribution
+to the mathematical theory of big game hunting" in the American
+Mathematical Monthly in 1938 by "H. Petard, of Princeton NJ" [actually
+the late Ralph Boas].  It has been reprinted several times.
+
+1. Mathematical Methods
+
+1.1 The Hilbert (axiomatic) method
+
+We place a locked cage onto a given point in the desert.  After that
+we introduce the following logical system:
+   Axiom 1: The set of lions in the Sahara is not empty.
+   Axiom 2: If there exists a lion in the Sahara, then there exists a
+            lion in the cage.
+   Procedure: If P is a theorem, and if the following is holds:
+              "P implies Q", then Q is a theorem.
+   Theorem 1: There exists a lion in the cage.
+
+1.2 The geometrical inversion method
+
+We place a spherical cage in the desert, enter it and lock it from
+inside.  We then perform an inversion with respect to the cage.  Then
+the lion is inside the cage, and we are outside.
+
+1.3 The projective geometry method
+
+Without loss of generality, we can view the desert as a plane surface.
+We project the surface onto a line and afterwards the line onto an
+interior point of the cage. Thereby the lion is mapped onto that same
+point.
+
+1.4 The Bolzano-Weierstrass method
+
+Divide the desert by a line running from north to south.  The lion is
+then either in the eastern or in the western part.  Let's assume it is
+in the eastern part.  Divide this part by a line running from east to
+west.  The lion is either in the northern or in the southern part.
+Let's assume it is in the northern part.  We can continue this process
+arbitrarily and thereby constructing with each step an increasingly
+narrow fence around the selected area.  The diameter of the chosen
+partitions converges to zero so that the lion is caged into a fence of
+arbitrarily small diameter.
+
+1.5 The set theoretical method
+
+We observe that the desert is a separable space.  It therefore
+contains an enumerable dense set of points which constitutes a
+sequence with the lion as its limit.  We silently approach the lion in
+this sequence, carrying the proper equipment with us.
+
+1.6 The Peano method
+
+In the usual way construct a curve containing every point in the
+desert.  It has been proven [1] that such a curve can be traversed in
+arbitrarily short time.  Now we traverse the curve, carrying a spear,
+in a time less than what it takes the lion to move a distance equal to
+its own length.
+
+1.7 A topological method
+
+We observe that the lion possesses the topological gender of a torus.
+We embed the desert in a four dimensional space.  Then it is possible
+to apply a deformation [2] of such a kind that the lion when returning
+to the three dimensional space is all tied up in itself.  It is then
+completely helpless.
+
+1.8 The Cauchy method
+
+We examine a lion-valued function f(z). Be \zeta the cage.  Consider
+the integral
+
+          1    [   f(z)

@@ -1,0 +1,10 @@
+
+	'Tis a favorite project of mine
+	A new value of pi to assign.
+	    I would fix it at 3
+	    For it's simpler, you see,
+        Than 3 point 1 4 1 5 9.
+
+("The Lure of the Limerick" by W.S. Baring-Gould, p.5. Attributed to
+Harvey L. Carter).
+

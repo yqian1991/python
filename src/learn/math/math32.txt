@@ -1,0 +1,10 @@
+
+What is "pi"?
+
+Mathematician: Pi is the number expressing the relationship between the
+	       circumference of a circle and its diameter.
+
+Physicist: Pi is 3.1415927 plus or minus 0.00000005
+
+Engineer: Pi is about 3.
+

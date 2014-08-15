@@ -1,0 +1,94 @@
+       2 \pi i ] z - \zeta
+
+               C
+
+where C represents the boundary of the desert.  Its value is f(zeta),
+i.e. there is a lion in the cage [3].
+
+1.9 The Wiener-Tauber method
+
+We obtain a tame lion, L_0, from the class L(-\infinity,\infinity),
+whose fourier transform vanishes nowhere.  We put this lion somewhere
+in the desert.  L_0 then converges toward our cage.  According to the
+general Wiener-Tauner theorem [4] every other lion L will converge
+toward the same cage.  (Alternatively we can approximate L arbitrarily
+close by translating L_0 through the desert [5].)
+
+2 Theoretical Physics Methods
+
+2.1 The Dirac method
+
+We assert that wild lions can ipso facto not be observed in the Sahara
+desert.  Therefore, if there are any lions at all in the desert, they
+are tame.  We leave catching a tame lion as an exercise to the reader.
+
+2.2 The Schroedinger method
+
+At every instant there is a non-zero probability of the lion being in
+the cage.  Sit and wait.
+
+2.3 The Quantum Measurement Method
+
+We assume that the sex of the lion is _ab initio_ indeterminate.  The
+wave function for the lion is hence a superposition of the gender
+eigenstate for a lion and that for a lioness.  We lay these eigenstates
+out flat on the ground and orthogonal to each other.  Since the (male)
+lion has a distinctive mane, the measurement of sex can safely be made
+from a distance, using binoculars.  The lion then collapses into one of
+the eigenstates, which is rolled up and placed inside the cage.
+
+2.4 The nuclear physics method
+
+Insert a tame lion into the cage and apply a Majorana exchange
+operator [6] on it and a wild lion.
+
+As a variant let us assume that we would like to catch (for argument's
+sake) a male lion.  We insert a tame female lion into the cage and
+apply the Heisenberg exchange operator [7], exchanging spins.
+
+2.5 A relativistic method
+
+All over the desert we distribute lion bait containing large amounts
+of the companion star of Sirius.  After enough of the bait has been
+eaten we send a beam of light through the desert.  This will curl
+around the lion so it gets all confused and can be approached without
+danger.
+
+3 Experimental Physics Methods
+
+3.1 The thermodynamics method
+
+We construct a semi-permeable membrane which lets everything but lions
+pass through.  This we drag across the desert.
+
+3.2 The atomic fission method
+
+We irradiate the desert with slow neutrons.  The lion becomes
+radioactive and starts to disintegrate. Once the disintegration
+process is progressed far enough the lion will be unable to resist.
+
+3.3 The magneto-optical method
+
+We plant a large, lense shaped field with cat mint (nepeta cataria)
+such that its axis is parallel to the direction of the horizontal
+component of the earth's magnetic field.  We put the cage in one of the
+field's foci . Throughout the desert we distribute large amounts of
+magnetized spinach (spinacia oleracea) which has, as everybody knows,
+a high iron content.  The spinach is eaten by vegetarian desert
+inhabitants which in turn are eaten by the lions.  Afterwards the
+lions are oriented parallel to the earth's magnetic field and the
+resulting lion beam is focussed on the cage by the cat mint lense.
+
+[1] After Hilbert, cf. E. W. Hobson, "The Theory of Functions of a Real
+    Variable and the Theory of Fourier's Series" (1927), vol. 1, pp 456-457
+[2] H. Seifert and W. Threlfall, "Lehrbuch der Topologie" (1934), pp 2-3
+[3] According to the Picard theorem (W. F. Osgood, Lehrbuch der
+    Funktionentheorie, vol 1 (1928), p 178) it is possible to catch every lion
+    except for at most one.
+[4] N. Wiener, "The Fourier Integral and Certain of its Applications" (1933),
+    pp 73-74
+[5] N. Wiener, ibid, p 89
+[6] cf e.g. H. A. Bethe and R. F. Bacher, "Reviews of Modern Physics", 8
+    (1936), pp 82-229, esp. pp 106-107
+[7] ibid
+

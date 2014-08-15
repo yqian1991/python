@@ -1,0 +1,8 @@
+
+"The integral of e to the x is equal to f of the quantity
+ u to the n."
+
+     /  x      n
+     | e  = f(u )
+     /
+

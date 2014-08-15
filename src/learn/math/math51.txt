@@ -1,0 +1,14 @@
+       |                  9
+      /
+       1
+
+Which, of course, translates to:
+
+Integral z-squared dz
+from 1 to the square root of 3
+times the cosine
+of three pi over 9
+equals log of the cube root of 'e'.
+
+And it's correct, too.
+

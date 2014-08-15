@@ -1,0 +1,13 @@
+
+   Patient: I'm in a hospital!  Why am I in here?
+   Doctor:  You've had an accident involving a train.
+   Patient: What happened?
+   Doctor:  Well, I've got some good news and some bad news.  Which would you
+like to hear first?
+   Patient: Well...  The bad news first...
+   Doctor:  Your legs were injured so badly that we had to amputate both of
+them.
+   Patient: That's terrible!  What's the good news?
+   Doctor:  There's a guy in the next ward who made a very good offer on your
+slippers.
+

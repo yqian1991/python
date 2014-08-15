@@ -1,0 +1,4 @@
+
+How do you get a viola section to play spiccato?
+Write a whole note with "solo" above it.
+

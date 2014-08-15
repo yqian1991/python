@@ -1,0 +1,35 @@
+
+ (I'm not sure if the following one is a true story or not)
+    The great logician Bertrand Russell (or was it A.N. Whitehead?)
+once claimed that he could prove anything if given that 1+1=1.
+    So one day, some smarty-pants asked him, "Ok.  Prove that
+you're the Pope."
+    He thought for a while and proclaimed, "I am one.  The Pope
+is one.  Therefore, the Pope and I are one."
+
+[NOTE: The following is from merritt@Gendev.slc.paramax.com (Merritt).
+The story about 1+1=1 causing ridiculous consequences was, I believe,
+originally the product of a conversation at the Trinity High Table. 
+It is recorded in Sir Harold Jeffreys' Scientific Inference, in a note
+to chapter one.  Jeffreys remarks that the fact that everything
+followed from a single contradiction had been noticed by Aristotle (I
+doubt this way of putting it is quite correct, but that is beside the
+point).  He goes on to say that McTaggart denied the consequence: "if
+2+2=5, how can you prove that I am the pope?"  Hardy is supposed to
+have replied: "if 2+2=5, 4=5; subtract 3; then 1=2; but McTaggart and
+the pope are two; therefore McTaggart and the pope are one."  When I
+consider this story, I am astonished at how much more brilliant some
+people are than I (quite independent of the fallacies in the
+argument).
+
+Since McTaggart, Hardy, Whitehead, and Russell (the last two of whom
+were credited with a variant of Hardy's argument in your post) were
+all fellows of Trinity and Jeffreys (their exact contemporary) was a
+fellow of St. Johns, I suspect that (whatever the truth of Jeffreys'
+story) it is very unlikely that Whitehead or Russell had anything to do
+with it.  The extraordinary point to me about the story is that Hardy
+was able to snap this argument out between mouthfuls, so to speak, and
+he was not even a logician at all.  This is probably why it came in
+some people's minds to be attributed to one or other of the famous
+Trinity logicians.
+

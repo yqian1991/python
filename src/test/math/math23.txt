@@ -1,0 +1,16 @@
+
+An engineer, physicist, and mathematician are all challenged with a
+problem: to fry an egg when there is a fire in the house.  The
+engineer just grabs a huge bucket of water, runs over to the fire, and
+puts it out.  The physicist thinks for a long while, and then measures
+a precise amount of water into a container.  He takes it over to the
+fire, pours it on, and with the last drop the fire goes out. The
+mathematician pores over pencil and paper.  After a few minutes he
+goes "Aha!  A solution exists!" and goes back to frying the egg.
+
+Sequel:  This time they are asked simply to fry an egg (no fire).  The
+engineer just does it, kludging along; the physicist calculates
+carefully and produces a carefully cooked egg; and the mathematician
+lights a fire in the corner, and says "I have reduced it to the
+previous problem."
+

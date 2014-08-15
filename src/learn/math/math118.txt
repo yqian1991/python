@@ -1,0 +1,20 @@
+
+   /
+  |   1
+  | -----  = log cabin
+  | cabin
+ /
+
+        Oops, you forgot your constant of integration.
+
+
+   /
+  |   1
+  | -----  = log cabin + C
+  | cabin
+ /
+
+        And, as we all know,
+
+           log cabin + C = houseboat
+

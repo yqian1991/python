@@ -1,0 +1,25 @@
+
+An assemblage of the most gifted minds in the world were all posed the
+following question:
+
+"What is 2 * 2 ?"
+
+The engineer whips out his slide rule (so it's old) and shuffles it
+back and forth, and finally announces "3.99".
+
+The physicist consults his technical references, sets up the problem
+on his computer, and announces "it lies between 3.98 and 4.02".
+
+The mathematician cogitates for a while, oblivious to the rest of the
+world, then announces: "I don't what the answer is, but I can tell
+you, an answer exists!".
+
+Philosopher: "But what do you _mean_ by 2 * 2 ?"
+
+Logician: "Please define 2 * 2 more precisely."
+
+Accountant: Closes all the doors and windows, looks around carefully,
+            then asks "What do you _want_ the answer to be?"
+
+Computer Hacker: Breaks into the NSA super-computer and gives the answer.
+

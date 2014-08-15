@@ -1,0 +1,24 @@
+
+    Q:  What quantity is represented by this ?
+
+                 /\         /\         /\
+                /  \       /  \       /  \
+                /  \       /  \       /  \
+               /    \     /    \     /    \
+               /    \     /    \     /    \
+              /______\   /______\   /______\
+                 ||         ||         ||
+                 ||         ||         ||
+
+    A:  9,  tree + tree + tree
+
+    Q:  A dust storm blows through, now how much do you have ?
+
+    A:  99,  dirty tree + dirty tree + dirty tree
+
+    Q:  Some birds go flying by and leave their droppings,
+        one per tree, how many is that ?
+
+    A:  100,  dirty tree and a turd + dirty tree and a turd
+               + dirty tree and a turd
+

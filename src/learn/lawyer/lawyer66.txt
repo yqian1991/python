@@ -1,0 +1,18 @@
+Sammy came home from first grade with his first homework assignment, which
+was to find the answer to "what is 2 + 2?". He went to his father first
+because he was a mathematician. His dad said, "That seems to be from the
+theory of small sets, which I haven't used in a long time. I suspect that
+the answer is greater than 3, and will not exceed 5, even for extremely
+large values of 2. I'll write it in Fortran and run it through the computer
+at the college in the morning." Sammy shook his head and went outside to
+think. His neighbor, an internist, was working in the yard. Sammy went over
+and asked, "Dr. Smith, what is 2 + 2?" Smith thought a while and then said,
+"I think it is 4, but we should run some tests first. Can you make an
+appointment to see me at the office tommorrow and don't forget to bring your
+HMO card." Sammy wasn't satisfied and he walked over to the other neighbor's
+house, where Mr. Jones, a lawyer, was washing his BMW. Sammy said, "Mr.
+Jones, what is 2 + 2?" Jones said, "My boy, since you are my little friend
+and neighbor, I will waive my usual consultation fee, this is strictly Pro
+Bono. But, be assured that justice will be served and the rights of the
+citizen to know the value of 2 + 2 will be upheld". Then he knelt down and
+wispered in Sammy's ear. "Sammy, what would you like it to be?"

@@ -1,0 +1,17 @@
+
+Three standard Peter Lax jokes (heard in his lectures) :
+
+1. What's the contour integral around Western Europe?
+        Answer: Zero, because all the Poles are in Eastern Europe!
+        Addendum: Actually, there ARE some Poles in Western Europe, but
+                  they are removable!
+
+2. An English mathematician (I forgot who) was asked by his very religious
+   colleague:
+	Do you believe in one God?
+	Answer: Yes, up to isomorphism!
+
+3. What is a compact city?
+	It's a city that can be guarded by finitely many near-sighted
+	policemen!
+

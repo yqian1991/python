@@ -1,0 +1,11 @@
+
+A patient goes to a Polish doctor:
+   Patient: I am having a hard time hearing.  I cannot even hear myself cough.
+   Doctor: Here is a prescription, take the midicine for 7 days, then return for
+a checkup.
+
+SEVEN DAYS LATER:
+   Patient: Thanks a million, doctor.  At least, I can hear myself cough NOW. So
+what did you do to make me hear better?
+   Doctor: Not much, I gave you medicine that increased your cough.
+

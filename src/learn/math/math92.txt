@@ -1,0 +1,15 @@
+
+Philosopher: "Resolution of the continuum hypothesis will have
+              profound implications to all of science."
+
+Physicist:   "Not quite.  Physics is well on its way without those
+              mythical `foundations'.  Just give us serviceable mathematics."
+
+Computer Scientist:
+             "Who cares? Everything in this Universe seems to be finite
+              anyway.  Besides, I'm too busy debugging my Pascal programs."
+
+Mathematician:
+             "Forget all that!  Just make your formulae as aesthetically
+              pleasing as possible!"
+

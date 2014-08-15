@@ -1,0 +1,76 @@
+
+Methods of Mathematical Proof
+
+This is from _A Random Walk in Science_ (by Joel E. Cohen?):
+
+
+To illustrate the various methods of proof we give an example of a
+logical system.
+
+THE PEJORATIVE CALCULUS
+
+Lemma 1.  All horses are the same colour.
+          (Proof by induction)
+
+Proof.  It is obvious that one horse is the same colour.  Let us assume
+the proposition P(k) that k horses are the same colour and use this to
+imply that k+1 horses are the same colour.  Given the set of k+1 horses,
+we remove one horse; then the remaining k horses are the same colour,
+by hypothesis.  We remove another horse and replace the first; the k
+horses, by hypothesis, are again the same colour.  We repeat this until
+by exhaustion the k+1 sets of k horses have been shown to be the same
+colour.  It follows that since every horse is the same colour as every
+other horse, P(k) entails P(k+1).  But since we have shown P(1) to be
+true, P is true for all succeeding values of k, that is, all horses are
+the same colour.
+
+Theorem 1.  Every horse has an infinite number of legs.
+            (Proof by intimidation.)
+
+Proof.  Horses have an even number of legs.  Behind they have two legs
+and in front they have fore legs.  This makes six legs, which is cer-
+tainly an odd number of legs for a horse.  But the only number that is
+both odd and even is infinity.  Therefore horses have an infinite num-
+ber of legs.  Now to show that this is general, suppose that somewhere
+there is a horse with a finite number of legs.  But that is a horse of
+another colour, and by the lemma that does not exist.
+
+Corollary 1.  Everything is the same colour.
+
+Proof.  The proof of lemma 1 does not depend at all on the nature of the
+object under consideration.  The predicate of the antecedent of the uni-
+versally-quantified conditional 'For all x, if x is a horse, then x is
+the same colour,' namely 'is a horse' may be generalized to 'is anything'
+without affecting the validity of the proof; hence, 'for all x, if x is
+anything, x is the same colour.'
+
+Corollary 2.  Everything is white.
+
+Proof.  If a sentential formula in x is logically true, then any parti-
+cular substitution instance of it is a true sentence.  In particular
+then:  'for all x, if x is an elephant, then x is the same colour' is
+true.  Now it is manifestly axiomatic that white elephants exist (for
+proof by blatant assertion consult Mark Twain 'The Stolen White Ele-
+phant').  Therefore all elephants are white.  By corollary 1 everything
+is white.
+
+Theorem 2.  Alexander the Great did not exist and he had an infinite
+number of limbs.
+
+Proof.  We prove this theorem in two parts.  First we note the obvious
+fact that historians always tell the truth (for historians always take
+a stand, and therefore they cannot lie).  Hence we have the historically
+true sentence, 'If Alexander the Great existed, then he rode a black
+horse Bucephalus.'  But we know by corollary 2 everything is white;
+hence Alexander could not have ridden a black horse.  Since the conse-
+quent of the conditional is false, in order for the whole statement to
+be true the antecedent must be false.  Hence Alexander the Great did not
+exist.
+  We have also the historically true statement that Alexander was warned
+by an oracle that he would meet death if he crossed a certain river.  He
+had two legs; and 'forewarned is four-armed.'  This gives him six limbs,
+an even number, which is certainly an odd number of limbs for a man.
+Now the only number which is even and odd is infinity; hence Alexander
+had an infinite number of limbs.  We have thus proved that Alexander the
+Great did not exist and that he had an infinite number of limbs.
+

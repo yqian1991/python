@@ -1,0 +1,13 @@
+
+Words in {} should be interpreted as greek letters:
+
+Q: I M A {pi}{rho}Maniac.  R U  1,2?
+                              o         <- read as "U-not"
+A: Y ?
+    o
+
+("I am a pyromaniac.  Are you not one, too?"  "Why not?")
+
+F U \{can\} \{read\} Ths U \{Mst\} \{use\} TeX
+("If you can read this, you must use TeX")
+

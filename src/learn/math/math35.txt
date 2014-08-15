@@ -1,0 +1,54 @@
+
+Q: What's purple and commutes?
+A: An abelian grape.
+
+Q: Why did the mathematician name his dog "Cauchy"?
+A: Because he left a residue at every pole.
+
+Q: Why is it that the more accuracy you demand from an interpolation
+   function, the more expensive it becomes to compute?
+A: That's the Law of Spline Demand.
+
+Q: How many mathematicians does it take to screw in a lightbulb?
+A: One, who gives it to six Californians, thereby reducing it to an
+   earlier riddle.
+   -- from a button I bought at Nancy Lebowitz's table at Boskone
+
+Q: What do a mathematician and a physicist [or engineer, or musician,
+   or whatever the profession of the person addressed] have in common?
+A: They are both stupid, with the exception of the mathematician.
+
+Q: What do you call a teapot of boiling water on top of mount everest?
+A: A high-pot-in-use
+
+Q: What do you call a broken record?
+A: A Decca-gone
+
+Q: What do you get when you cross 50 female pigs and 50 male deer?
+A: One hundred sows-and-bucks
+
+Q: Why did the chicken cross the Moebius strip?
+A: To get to the other ... er, um ...
+
+Q: What is the world's longest song?
+A: "Aleph-nought Bottles of Beer on the Wall."
+
+Q: What does a mathematician do when he's constipated?
+A: He works it out with a pencil.
+
+Q: What's yellow and equivalent to the Axiom of Choice.
+A: Zorn's Lemon.
+
+Q: What do you get if you cross an elephant with a zebra.
+A: Elephant zebra sin theta.
+
+Q: What do you get if you cross an elephant with a mountain climber.
+A: You can't do that.  A mountain climber is a scalar.
+
+Q: What do you get when you cross an elephant with a banana?
+A: Elephant banana sine theta in a direction mutually perpendicular to
+   the two as determined by the right hand rule.
+
+Q: To what question is the answer "9W."
+A: "Dr. Wiener, do you spell your name with a V?"
+

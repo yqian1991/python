@@ -1,0 +1,9 @@
+
+   Doctor:  I have some bad news and some very bad news.
+   Patient: Well, might as well give me the bad news first.
+   Doctor:  The lab called with your test results.  They said you have 24 hours
+to live.
+   Patient: 24 HOURS!  That's terrible!!  WHAT could be WORSE?  What's the very
+bad news?
+   Doctor:  I've been trying to reach you since yesterday.
+

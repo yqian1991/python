@@ -1,0 +1,21 @@
+
+Mathematician: 3 is a prime, 5 is a prime, 7 is a prime,
+               9 is not a prime - counter-example - claim is false.
+
+Physicist: 3 is a prime, 5 is a prime, 7 is a prime,
+           9 is an experimental error, 11 is a prime, ...
+
+Engineer: 3 is a prime, 5 is a prime, 7 is a prime,
+          9 is a prime, 11 is a prime, ...
+
+Computer scientist: 3's a prime, 5's a prime, 7's a prime, 7's a prime,
+                    7's a prime, ...
+
+Computer scientist using Unix: 3's a prime, 5's a prime, 7's a prime,
+                               segmentation fault
+
+Gosh, they all overlooked that even 2's a prime!!
+
+I figure that 2 is the oddest prime of all, because it's the
+only one that's even!
+

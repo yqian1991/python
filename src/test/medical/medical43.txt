@@ -1,0 +1,8 @@
+
+There are several kinds of doctors, and it is told that they can be
+differentiated by the following method:
+General Practitioners know nothing and do little.
+Surgeons know little and do everything.
+Internists knows everything and do nothing.
+Pathologists know everything and can do everything, but it's usually too late.
+

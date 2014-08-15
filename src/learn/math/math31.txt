@@ -1,0 +1,13 @@
+
+A Mathematician (M) and an Engineer (E) attend a lecture by a
+Physicist. The topic concerns Kulza-Klein theories involving physical
+processes that occur in spaces with dimensions of 11, 12 and even
+higher.  The M is sitting, clearly enjoying the lecture, while the E
+is frowning and looking generally confused and puzzled.  By the end
+the E has a terrible headache.  At the end, the M comments about the
+wonderful lecture.  The E says "How do you understand this stuff?"
+M: "I just visualize the process."
+E: "How can you POSSIBLY visualize something that occurs in
+11-dimensional space?"
+M: "Easy, first visualize it in N-dimensional space, then let N go to 11."
+

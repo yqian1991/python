@@ -1,0 +1,40 @@
+
+C = [0, 0.1, 0.3, 0.5, 1,2,5,8,10];
+train_error = zeros(size(C));
+test_error = zeros(size(C));
+figure;
+title('Decision boundary - No kernel');
+for i = 1:size(C,2)
+    fprintf('Running %d\n', i);
+    [ y_new, train_error(i) ] = train_svm(i, @(x,y) x'*y,  train(:,1:2), train(:,3), test(:,1:2), C(i) );
+    test_error(i) = sum(test(:,3) ~= y_new) / 40;
+end;
+
+figure;
+plot(C, train_error, 'bx-');
+hold on;
+plot(C, test_error, 'ro-');
+title('No kernel');
+legend('Train error', 'Test error');
+xlabel('C');
+ylabel('Error');
+
+
+figure;
+title('Decision boundary - Gaussian kernel');
+train_error = zeros(size(C));
+test_error = zeros(size(C));
+for i = 1:size(C,2)
+    fprintf('Running %d\n', i);
+    [ y_new, train_error(i) ] = train_svm(i, @(x,y) exp(-(y-x)'*(y-x)/2),  train(:,1:2), train(:,3), test(:,1:2), C(i) );
+    test_error(i) = sum(test(:,3) ~= y_new) / 40;
+end;
+
+figure;
+plot(C, train_error, 'bx-');
+hold on;
+plot(C, test_error, 'ro-');
+title('Gaussian kernel');
+legend('Train error', 'Test error');
+xlabel('C');
+ylabel('Error');

@@ -1,0 +1,11 @@
+
+One day a farmer called up an engineer, a physicist, and a mathematician
+and asked them to fence of the largest possible area with the least
+amount of fence.  The engineer made the fence in a circle and
+proclaimed that he had the most efficient design.  The physicist made
+a long, straight line and proclaimed 'We can assume the length is
+infinite...' and pointed out that fencing off half of the Earth was
+certainly a more efficient way to do it.  The Mathematician just
+laughed at them.  He built a tiny fence around himself and said 'I
+declare myself to be on the outside.'
+

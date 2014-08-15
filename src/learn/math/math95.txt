@@ -1,0 +1,4 @@
+                 n
+
+Proof: cancel the n in the numerator and denominator.
+

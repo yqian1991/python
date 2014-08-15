@@ -1,0 +1,22 @@
+
+A mathematician and a physicist were asked the following question:
+
+        Suppose you walked by a burning house and saw a hydrant and
+        a hose not connected to the hydrant.  What would you do?
+
+P: I would attach the hose to the hydrant, turn on the water, and put out
+   the fire.
+
+M: I would attach the hose to the hydrant, turn on the water, and put out
+   the fire.
+
+Then they were asked this question:
+
+        Suppose you walked by a house and saw a hose connected to
+        a hydrant.  What would you do?
+
+P: I would keep walking, as there is no problem to solve.
+
+M: I would disconnect the hose from the hydrant and set the house on fire,
+   reducing the problem to a previously solved form.
+

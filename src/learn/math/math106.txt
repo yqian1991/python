@@ -1,0 +1,10 @@
+
+The world is divided into two classes:
+        people who say "The world is divided into two classes",
+    and people who say
+        The world is divided into two classes:
+                people who say: "The world is divided into two classes",
+            and people who say:
+                The world is divided into two classes:
+                        people who say ...
+

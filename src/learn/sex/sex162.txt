@@ -1,0 +1,10 @@
+
+The IPA Intercept Strategy has been widely publicized. It also appears that many
+other organizations are taking a similar approach to OSI Standardization.
+However, it has been discovered that some organizations are also practising the
+converse of this: the API (Active Prevention of Inter-working) Contracept
+Strategy. This little known strategy is operated secretly but most effectively,
+and the purpose of this IN is to bring some of its method out into the open
+where they can be recognized for what they are.
+
+2.  The Conception

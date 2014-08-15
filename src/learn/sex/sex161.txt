@@ -1,0 +1,13 @@
+
+CEO document contents:
+
+Document Reference: IPA/IN/666  Issue: Draft 42  Date: 15/04/83 No of Pages 4.
+Author(s):  Kurt Jenner                          Status:  Definitive
+
+Summary:
+This IN describes the "API Contracept Strategy" which is the exact Converse of
+the "IPA Intercept Strategy." Various contracept methods are described, and it
+is concluded that an "Exocept" (Counter Contracept) Strategy may be based on a
+recognition of these.
+
+1.  Introduction

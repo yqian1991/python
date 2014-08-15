@@ -1,0 +1,7 @@
+
+If (1+x) (real close to 1)
+Is raised to the power of 1
+Over x, you will find
+Here's the value defined:
+2.718281...
+

@@ -1,0 +1,137 @@
+
+                Hiawatha Designs an Experiment
+
+Hiawatha, mighty hunter,
+He could shoot ten arrows upward,
+Shoot them with such strength and swiftness
+That the last had left the bow-string
+Ere the first to earth descended.
+
+This was commonly regarded
+As a feat of skill and cunning.
+Several sarcastic spirits
+Pointed out to him, however,
+That it might be much more useful
+If he sometimes hit the target.
+"Why not shoot a little straighter
+And employ a smaller sample?"
+Hiawatha, who at college
+Majored in applied statistics,
+Consequently felt entitled
+To instruct his fellow man
+In any subject whatsoever,
+Waxed exceedingly indignant,
+Talked about the law of errors,
+Talked about truncated normals,
+Talked of loss of information,
+Talked about his lack of bias,
+Pointed out that (in the long run)
+Independent observations,
+Even though they missed the target,
+Had an average point of impact
+Very near the spot he aimed at,
+With the possible exception
+of a set of measure zero.
+
+"This," they said, "was rather doubtful;
+Anyway it didn't matter.
+What resulted in the long run:
+Either he must hit the target
+Much more often than at present,
+Or himself would have to pay for
+All the arrows he had wasted."
+
+Hiawatha, in a temper,
+Quoted parts of R. A. Fisher,
+Quoted Yates and quoted Finney,
+Quoted reams of Oscar Kempthorne,
+Quoted Anderson and Bancroft
+(practically in extenso)
+Trying to impress upon them
+That what actually mattered
+Was to estimate the error.
+
+Several of them admitted:
+"Such a thing might have its uses;
+Still," they said, "he would do better
+If he shot a little straighter."
+
+Hiawatha, to convince them,
+Organized a shooting contest.
+Laid out in the proper manner
+Of designs experimental
+Recommended in the textbooks,
+Mainly used for tasting tea
+(but sometimes used in other cases)
+Used factorial arrangements
+And the theory of Galois,
+Got a nicely balanced layout
+And successfully confounded
+Second order interactions.
+
+All the other tribal marksmen,
+Ignorant benighted creatures
+Of experimental setups,
+Used their time of preparation
+Putting in a lot of practice
+Merely shooting at the target.
+
+Thus it happened in the contest
+That their scores were most impressive
+With one solitary exception.
+This, I hate to have to say it,
+Was the score of Hiawatha,
+Who as usual shot his arrows,
+Shot them with great strength and swiftness,
+Managing to be unbiased,
+Not however with a salvo
+Managing to hit the target.
+
+"There!" they said to Hiawatha,
+"That is what we all expected."
+Hiawatha, nothing daunted,
+Called for pen and called for paper.
+But analysis of variance
+Finally produced the figures
+Showing beyond all peradventure,
+Everybody else was biased.
+And the variance components
+Did not differ from each other's,
+Or from Hiawatha's.
+(This last point it might be mentioned,
+Would have been much more convincing
+If he hadn't been compelled to
+Estimate his own components
+>From experimental plots on
+Which the values all were missing.)
+
+Still they couldn't understand it,
+So they couldn't raise objections.
+(Which is what so often happens
+with analysis of variance.)
+All the same his fellow tribesmen,
+Ignorant benighted heathens,
+Took away his bow and arrows,
+Said that though my Hiawatha
+Was a brilliant statistician,
+He was useless as a bowman.
+As for variance components
+Several of the more outspoken
+Make primeval observations
+Hurtful of the finer feelings
+Even of the statistician.
+
+In a corner of the forest
+Sits alone my Hiawatha
+Permanently cogitating
+On the normal law of errors.
+Wondering in idle moments
+If perhaps increased precision
+Might perhaps be sometimes better
+Even at the cost of bias,
+If one could thereby now and then
+Register upon a target.
+
+W. E. Mientka, "Professor Leo Moser -- Reflections of a Visit"
+American Mathematical Monthly, Vol. 79, Number 6 (June-July, 1972)
+

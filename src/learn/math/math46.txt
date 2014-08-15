@@ -1,0 +1,14 @@
+
+This poem was written by Jon Saxton (an author of math textbooks).
+
+((12 + 144 + 20 + (3 * 4^(1/2))) / 7) + (5 * 11) = 9^2 + 0
+
+
+Or for those who have trouble with the poem:
+
+A Dozen, a Gross and a Score,
+plus three times the square root of four,
+divided by seven,
+plus five times eleven,
+equals nine squared and not a bit more.
+

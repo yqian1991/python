@@ -1,0 +1,11 @@
+
+There was once a very smart horse.  Anything that was shown it, it
+mastered easily, until one day, its teachers tried to teach it about
+rectangular coordinates and it couldn't understand them.  All the
+horse's acquaintances and friends tried to figure out what was the
+matter and couldn't.  Then a new guy (what the heck, a computer
+engineer) looked at the problem and said,
+
+"Of course he can't do it.  Why, you're putting Descartes before the
+horse!"
+

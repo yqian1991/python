@@ -1,0 +1,18 @@
+
+For other articles, see also:
+
+A Random Walk in Science - R.L. Weber and E. Mendoza
+More Random Walks In Science - R.L. Weber and E. Mendoza
+In Mathematical Circles (2 volumes) - Howard Eves
+Mathematical Circles Revisited - Howard Eves
+Mathematical Circles Squared - Howard Eves
+Fantasia Mathematica - Clifton Fadiman
+The Mathematical Magpi - Clifton Fadiman
+Seven Years of Manifold - Jaworski
+The Best of the Journal of Irreproducible Results - George H. Scheer
+Mathematics Made Difficult - Linderholm
+A Stress-Analysis of a Strapless Evening Gown - Robert Baker
+The Worm-Runners Digest
+Knuth's April 1984 CACM article on The Space Complexity of Songs
+Stolfi and ?? SIGACT article on Pessimal Algorithms and Simplexity Analysis
+

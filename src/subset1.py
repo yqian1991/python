@@ -16,12 +16,14 @@ class Solution:
 			tmp.append(s[i])
 			cur = tmp[:]
 			res.append(cur)
+			print tmp
 			self.helper(s, i+1, tmp, res)
 			tmp.pop()
+			print tmp
 
 if __name__=="__main__":
 	sol = Solution()
-	print sol.subsets([1,2,3])
+	print sol.subsets([1,2,2])
 			
 		
 		

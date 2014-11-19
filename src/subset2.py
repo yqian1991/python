@@ -11,21 +11,22 @@ class Solution:
 			res=[[]]
 			self.helper(S, 0, tmp, res)
 			return res
-	def helper(self, s, ind, tmp, res):
-		for i in range(ind, len(s)):
+	def helper(self, s, i, tmp, res):
+		for i in range(i, len(s)):
 			tmp.append(s[i])
 			cur = tmp[:]
-			res.append(cur)
+			if cur not in res:
+				res.append(cur)
+			#print tmp
 			self.helper(s, i+1, tmp, res)
 			tmp.pop()
-			while i<len(s)-1 and s[i]==s[i+1]:
-				i += 1
+			#print tmp
 				
 				
 
 if __name__=="__main__":
 	sol = Solution()
-	print sol.subsetsWithDup([1,1])
+	print sol.subsetsWithDup([1, 2, 2])
 			
 		
 		

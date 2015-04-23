@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #add some comments
+=======
+#add in master
+>>>>>>> master
 
 class CashRegister:
     """A cash register."""

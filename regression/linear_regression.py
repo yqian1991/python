@@ -1,4 +1,6 @@
 from numpy import *
+import matplotlib.pyplot as plt 
+import sys
 
 def loadDataSet(fileName):
   #numFeat: number of columns
@@ -29,3 +31,19 @@ if __name__ == "__main__":
 
     ws = standRegres(xArr, yArr)
     print ws
+    xMat = mat(xArr)
+    yMat = mat(yArr)
+    yHat = xMat * ws
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+    ax.scatter(xMat[:,1].flatten().A[0], yMat.T[:,0].flatten().A[0])
+    xCopy = xMat.copy()
+    xCopy.sort(0)
+    yHat = xCopy * ws
+    sys.setrecursionlimit(30000)
+    #print ax.plot(xCopy[:,1], yHat)
+    plt.show()
+
+    #Get correlation
+    yHat = xMat * ws
+    print corrcoef(yHat.T, yMat)

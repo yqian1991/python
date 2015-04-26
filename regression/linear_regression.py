@@ -16,7 +16,7 @@ def loadDataSet(fileName):
     labelMat.append(float(curLine[-1]))
   return dataMat, labelMat
 
-def standRegres(xArr, yArr):
+def standRegress(xArr, yArr):
   xMat = mat(xArr); yMat = mat(yArr).T
   xTx = xMat.T*xMat
   if linalg.det(xTx) == 0.0:
@@ -25,25 +25,61 @@ def standRegres(xArr, yArr):
   ws = xTx.I * (xMat.T*yMat)
   return ws
 
+def standRegressTest():
+  xArr, yArr = loadDataSet('ex0.txt')
+  print len(xArr), len(yArr)
+
+  ws = standRegres(xArr, yArr)
+  print ws
+  xMat = mat(xArr)
+  yMat = mat(yArr)
+  yHat = xMat * ws
+  fig = plt.figure()
+  ax = fig.add_subplot(111)
+  ax.scatter(xMat[:,1].flatten().A[0], yMat.T[:,0].flatten().A[0])
+  xCopy = xMat.copy()
+  xCopy.sort(0)
+  yHat = xCopy * ws
+  sys.setrecursionlimit(30000)
+  #print ax.plot(xCopy[:,1], yHat)
+  plt.show()
+
+  #Get correlation
+  yHat = xMat * ws
+  print corrcoef(yHat.T, yMat)
+
+def lwlr(testPoint, xArr, yArr, k=1.0):
+  xMat = mat(xArr); yMat = mat(yArr).T
+  m = shape(xMat)[0]
+  weights = mat(eye(m))
+  for j in range(m):
+    diffMat = testPoint - xMat[j,:]
+    weights[j,j] = exp(diffMat * diffMat.T/(-2.0*k**2))
+  xTx = xMat.T * (weights * xMat)
+  if linalg.det(xTx) == 0.0:
+    print "This matrix is Singular, cannot inverse"
+    return
+  ws = xTx.I * (xMat.T * (weights*yMat))
+  return testPoint*ws
+
+def lwlrTest( ):
+  k = 1.0
+  xArr, yArr = loadDataSet("ex0.txt")
+  testArr = xArr
+  m = shape(testArr)[0]
+  yHat = zeros(m)
+  for i in range(m):
+    yHat[i] = lwlr(testArr[i], xArr, yArr, k)
+  xMat = mat(xArr)
+  srtInd = xMat[:,1].argsort(0)
+  xSort = xMat[srtInd][:, 0, :]
+  fig = plt.figure()
+  ax = fig.add_subplot(111)
+  ax.plot(xSort[:,1], yHat[srtInd])
+  ax.scatter(xMat[:,1].flatten().A[0], yMat.T[:,0].flatten().A[0])
+  plt.show()
+
 if __name__ == "__main__":
-    xArr, yArr = loadDataSet('ex0.txt')
-    print len(xArr), len(yArr)
-
-    ws = standRegres(xArr, yArr)
-    print ws
-    xMat = mat(xArr)
-    yMat = mat(yArr)
-    yHat = xMat * ws
-    fig = plt.figure()
-    ax = fig.add_subplot(111)
-    ax.scatter(xMat[:,1].flatten().A[0], yMat.T[:,0].flatten().A[0])
-    xCopy = xMat.copy()
-    xCopy.sort(0)
-    yHat = xCopy * ws
-    sys.setrecursionlimit(30000)
-    #print ax.plot(xCopy[:,1], yHat)
-    plt.show()
-
-    #Get correlation
-    yHat = xMat * ws
-    print corrcoef(yHat.T, yMat)
+  #standRegresTest()
+  lwlrTest()
+   

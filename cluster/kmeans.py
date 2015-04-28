@@ -7,7 +7,7 @@ def loadDataSet(fileName):
 	  curLine = line.strip().split('\t')
 	  fltLine = map(float, curLine)
 	  dataMat.append(fltLine)
-	return dataMat
+	return mat(dataMat)
 
 def distEclud(vecA, vecB):
   return sqrt(sum(power(vecA-vecB, 2)))
@@ -20,7 +20,7 @@ def randCent(dataSet, k):
     print dataSet[:,j]
     minJ = min(dataSet[:,j])
     rangeJ = float(max(dataSet[:,j]) - minJ)
-    centroids[:, j] = minJ + rangeJ * random.rand(k ,1)
+    centroids[:,j] = minJ + rangeJ * random.rand(k ,1)
   return centroids
 
 def kmeans(dataSet, k, distMeas=distEclud, createCent=randCent):

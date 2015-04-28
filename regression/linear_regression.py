@@ -86,13 +86,14 @@ def stageWise(xArr, yArr, eps=0.01, numIt=100):
   xMat = regularize(xMat)
   m, n = shape(xMat)
   ws = zeros((n, 1)); wsTest = ws.copy(); wsMax = ws.copy()
+  returnMat = zeros((numIt,n))
   for i in range(numIt):
     print ws.T
     lowestError = inf;
     for j in range(n):
       for sign in [-1, 1]:
         wsTest = ws.copy()
-        wsTest[j] += eps.sign
+        wsTest[j] += eps*sign
         yTest = xMat*wsTest
         rssE = rssError(yMat.A, yTest.A)
         if rssE < lowestError:
@@ -101,6 +102,13 @@ def stageWise(xArr, yArr, eps=0.01, numIt=100):
     ws = wsMax.copy()
     returnMat[i,:] = ws.T
   return returnMat
+
+def regularize(xMat):#regularize by columns
+    inMat = xMat.copy()
+    inMeans = mean(inMat,0)   #calc mean then subtract it off
+    inVar = var(inMat,0)      #calc variance of Xi then divide by it
+    inMat = (inMat - inMeans)/inVar
+    return inMat
 
 def stageWiseTest():
   xArr, yArr = loadDataSet('ex0.txt')

@@ -149,7 +149,7 @@ def main ():
       [[1,0], [1]],
       [[1,1], [0]]
   ]
-  myNN = NN ( 2, 2, 1)
+  myNN = NN (2, 2, 1)
   myNN.train(pat)
   
   

@@ -3,8 +3,7 @@ class Solution:
     # @return a list of lists of integers
     def backtrack(self, index, num, n, res):
         if index == n:
-            add = num[:]
-            res.append(add)
+            res.append(num[:])
         else:
             flag = 0
             for i in range(index, n+1):

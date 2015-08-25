@@ -10,3 +10,5 @@ a = A(1)
 print a.__dict__
 print A.b
 print a.d
+print a.__class__
+print a.__repr__

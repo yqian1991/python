@@ -39,13 +39,14 @@ class TestMockServer(object):
         cls.mock_server_thread.start()
 
     def test_request_response(self):
-        url = 'http://localhost:{port}/users'.format(port=self.mock_server_port)
+        url = 'http://localmonkey.com:{port}/v1/campaigns/2790446'.format(port=9900)
 
         # Send a request to the mock API server and store the response.
         response = requests.get(url)
 
         # Confirm that the request-response cycle completed successfully.
         print(response)
+        print(response.text)
         assert_true(response.ok)
 
 test = TestMockServer()
